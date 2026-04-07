@@ -202,7 +202,7 @@ dabing-skill/
 
 ## 关于作者
 
-GitHub：[@Dabing](https://github.com/Dabing)
+GitHub：[@Xiao](https://github.com/rookie2000)
 
 ---
 
@@ -230,6 +230,6 @@ MIT — 随便用，随便改，随便造。
 
 <br>
 
-MIT License © [Dabing](https://github.com/Dabing)
+MIT License © [@Xiao](https://github.com/rookie2000)
 
 </div>
